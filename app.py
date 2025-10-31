@@ -7,4 +7,5 @@ st.set_page_config(
 )
 
 # Redirect immediately to the Introduction page
-st.switch_page("0_Introduction.py")   # <-- no "pages/" prefix
+st.switch_page("pages/0_Introduction.py")
+
