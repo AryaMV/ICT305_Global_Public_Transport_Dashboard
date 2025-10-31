@@ -1,4 +1,3 @@
-
 import streamlit as st
 st.set_page_config(page_title="ICT305 — Global Public Transport", page_icon="🌍", layout="wide")
 
